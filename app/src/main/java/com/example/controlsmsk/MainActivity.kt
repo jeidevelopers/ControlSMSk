@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val HolaMundo = 0;
+        val HolaMundo2 = 3;
     }
 
 }
